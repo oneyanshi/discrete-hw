@@ -1,5 +1,4 @@
 ''' 
-
 AUTHOR: YAN SHI 
 DATE: September 11, 2016
 
@@ -12,7 +11,6 @@ DATE: September 11, 2016
 	Write a function which takes an integer argument m and 
 	returns a list consisting of exactly those integers n such that 
 	(m, n) is a set R. 
-
 ''' 
 
 list_for_n = []
